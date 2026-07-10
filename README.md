@@ -1,4 +1,4 @@
-                                                            # Hi there 👋, I'm Saloni Nayyar
+<h1 align="center">Hi 👋, I'm Saloni Nayyar</h1>
 
 <h3 align="center">
 Computer Science Graduate | Aspiring AI Engineer | Generative AI • LLMs • RAG • AI Agents
