@@ -191,15 +191,15 @@ I recently started contributing to Open Source and enjoy collaborating with deve
 
 # 🎯 Goals for 2026
 
-- ✅ Become an AI Engineer
-- ✅ Build 20+ AI Projects
-- ✅ Master LLMs
-- ✅ Build Production-ready RAG Systems
-- ✅ Learn LangGraph & AI Agents
-- ✅ Master MLOps
-- ✅ Deploy AI Applications
-- ✅ Contribute to Open Source
-- ✅ Crack AI Engineer Interviews
+- Become an AI Engineer
+- Build 20+ AI Projects
+- Master LLMs
+- Build Production-ready RAG Systems
+- Learn LangGraph & AI Agents
+- Master MLOps
+- Deploy AI Applications
+- Contribute to Open Source
+- Crack AI Engineer Interviews
 
 ---
 
