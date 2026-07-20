@@ -166,6 +166,8 @@ Passionate about building intelligent AI applications, exploring Large Language 
 <p>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postgresql-4479A1?style=for-the-badge&logo=Postgresql&logoColor=lightpink"/>
+
 
 </p>
 
