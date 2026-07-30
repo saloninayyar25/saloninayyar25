@@ -232,7 +232,11 @@ I recently started contributing to Open Source and enjoy collaborating with deve
 [![Saloni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saloninayyar25&theme=tokyo-night)](https://github.com/saloninayyar25)
 
 ---
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=saloninayyar25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
