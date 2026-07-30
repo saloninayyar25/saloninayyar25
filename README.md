@@ -217,13 +217,6 @@ I recently started contributing to Open Source and enjoy collaborating with deve
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=saloninayyar25&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
