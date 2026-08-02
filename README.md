@@ -267,11 +267,6 @@ Every project is an opportunity to learn something new. I believe in learning pu
 <h3 align="center">
 
 ⭐ Thanks for visiting my profile! ⭐
-
-</h3>
-
-<p align="center">
-
+<br>
 <i>Learning • Building • Sharing • Growing 🚀</i>
-
-</p>
+</h3>
