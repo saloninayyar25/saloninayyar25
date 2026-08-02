@@ -272,6 +272,6 @@ Every project is an opportunity to learn something new. I believe in learning pu
 
 <p align="center">
 
-Learning • Building • Sharing • Growing 🚀
+<i>Learning • Building • Sharing • Growing 🚀</i>
 
 </p>
