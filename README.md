@@ -36,7 +36,7 @@ Passionate about building intelligent AI applications, exploring Large Language 
 - 📚 Retrieval Augmented Generation (RAG)
 - 🔗 LangChain
 - 🌐 LangGraph
-- 🤖 AI Agents
+- 🤖 AI Agents & Engineering
 - ⚡ FastAPI
 - ☁️ AWS
 - 🐳 Docker
