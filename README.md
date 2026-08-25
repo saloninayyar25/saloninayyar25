@@ -19,7 +19,7 @@ Passionate about building intelligent AI applications, exploring Large Language 
 
 🎓 Computer Science Graduate from **University of Delhi**
 
-🤖 Aspiring **AI Engineer**
+🤖 Aspiring **AI Engineer** & **Data Scientist**
 
 💡 Passionate about **Machine Learning, Deep Learning, Generative AI, LLMs, RAG, AI Agents and MLOps**
 
